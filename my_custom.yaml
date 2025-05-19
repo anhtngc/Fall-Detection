@@ -1,0 +1,9 @@
+path: /home/duypd/Fall-Detection/new_dataset
+train: train/images
+val: val/images
+test: test/images
+
+#Classes
+names:
+ 0: FallDown
+ 1: Not_Fallen
