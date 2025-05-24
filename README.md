@@ -16,11 +16,11 @@ This solution is designed for deployment in various environments such as homes w
 Suitable for elderly, children, construction, hazardous zones.
 
 ## 2️⃣ Technologies Used:
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=for-the-badge&logo=streamlit&logoColor=white)
-![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)   
+![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)   
+![Streamlit](https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=for-the-badge&logo=streamlit&logoColor=white)   
+![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white)   
+![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)   
 ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
 ![Raspberry Pi](https://img.shields.io/badge/-Raspberry_Pi-C51A4A?style=for-the-badge&logo=Raspberry-Pi)
 ![Kaggle](https://img.shields.io/badge/Kaggle-035a7d?style=for-the-badge&logo=kaggle&logoColor=white)
@@ -48,7 +48,7 @@ To enhance the model's ability to distinguish between dangerous falls and normal
    *(On-going — system integration and testing in progress)*
    
 ## References:
-[Roboflow Fall Detection Computer Vision Project](https://universe.roboflow.com/roboflow-universe-projects/fall-detection-ca3o8)
-[Kaggle Fall Detection Dataset](https://www.kaggle.com/datasets/uttejkumarkandagatla/fall-detection-dataset)
-[Dataset for human fall recognition in an uncontrolled environment](https://doi.org/10.1016/j.dib.2022.108610)
-[FD-YOLO: A YOLO Network Optimized for Fall Detection](https://doi.org/10.3390/app15010453)
+[Roboflow Fall Detection Computer Vision Project](https://universe.roboflow.com/roboflow-universe-projects/fall-detection-ca3o8)   
+[Kaggle Fall Detection Dataset](https://www.kaggle.com/datasets/uttejkumarkandagatla/fall-detection-dataset)    
+[Dataset for human fall recognition in an uncontrolled environment](https://doi.org/10.1016/j.dib.2022.108610)    
+[FD-YOLO: A YOLO Network Optimized for Fall Detection](https://doi.org/10.3390/app15010453)    
